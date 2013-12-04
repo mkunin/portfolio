@@ -1,0 +1,102 @@
+@charset "utf-8";
+/* CSS Document */
+
+.annakin {
+	height: 100px;
+	width: 200px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	position: absolute;
+	top: 200px;
+	left: 100px;
+	z-index: 1;
+	padding: 10px;
+	background-image: url('images/desert.jpg');
+}
+
+.obiwan {
+	height: 150px;
+	width: 150px;
+	border-style: dotted;
+	border-width: 5px;
+	border-color: green;
+	position: absolute;
+	top: 100px;
+	left: 50px;
+	z-index: 0;
+	padding: 5px;
+	padding-right: 0;
+	background-image: url('images/smiley.gif');
+	background-repeat: no-repeat;
+	background-position: bottom left;
+	background-color: #CCCCCC;
+}
+
+.iured {
+	color: #FF0000;
+}
+
+.coltblue {
+	color: blue;
+}
+
+.div3 {
+	height: 275px;
+	width: 395px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	background: #0FF;
+	position: absolute;
+	top: 340px;
+	left: 50px;
+	z-index: 3;
+	padding: 25px 40px 0 25px;
+	margin: 20px 20px 20px 20px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+.div4 {
+	height: 185px;
+	width: 395px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	background: #0F0;
+	position: absolute;
+	top: 650px;
+	left: 50px;
+	z-index: 3;
+	padding: 25px 40px 0 25px;
+	margin: 20px 20px 20px 20px;
+	font-family:"Times New Roman", Times, serif;
+}
+
+.div5 {
+	height: 225px;
+	width: 395px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	background: #F90;
+	position: absolute;
+	top: 870px;
+	left: 50px;
+	z-index: 3;
+	padding: 25px 40px 0 25px;
+	margin: 20px 20px 20px 20px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.div3span {
+	background-color: yellow;
+}
+
+.div4span {
+	background-color: yellow;
+}
+
+.div5span {
+	background-color: yellow;
+}
