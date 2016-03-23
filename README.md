@@ -1,3 +1,3 @@
-portfolio
+some-web-dev-work
 =========
-Hello, World, and welcome to my github portfolio! This portfolio showcases some of my web development work. Regarding web development, I have experience with HTML, CSS, JavaScript, PHP, and SQL.
+This repository includes some of my web development work (e.g. HTML, CSS, JavaScript and PHP).
